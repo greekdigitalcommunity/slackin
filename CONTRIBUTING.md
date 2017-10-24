@@ -26,8 +26,7 @@ At this stage it's good practice to let the #admin know about your changes so we
 
 ### Deploying
 Our slackin fork is deployed using heroku.
-The login details for heroku's dashboard are available at: https://docs.google.com/spreadsheets/d/1vDAUZ4T1vdA34w1PWiMzHNZ_xF6SgNXbNn-PWTNIVl0/edit?usp=drive_web
-Using these credentials you can login to http://heroku.com and manage the app's deployment by going to: https://dashboard.heroku.com/apps/greekdigitalcommunity/deploy/heroku-git
+Using our heroku credentials you can login to http://heroku.com and manage the app's deployment by going to: https://dashboard.heroku.com/apps/greekdigitalcommunity/deploy/heroku-git
 
 ### Need help?
 For more details questions/help feel free to ask in [#admin](https://greekdigitalcommunity.slack.com/messages/G5BLCHYRF)
