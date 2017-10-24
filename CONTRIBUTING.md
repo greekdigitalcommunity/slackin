@@ -29,4 +29,4 @@ Our slackin fork is deployed using heroku.
 Using our heroku credentials you can login to http://heroku.com and manage the app's deployment by going to: https://dashboard.heroku.com/apps/greekdigitalcommunity/deploy/heroku-git
 
 ### Need help?
-For more details questions/help feel free to ask in [#admin](https://greekdigitalcommunity.slack.com/messages/G5BLCHYRF)
+For more details questions/help feel free to ask in [#general](https://greekdigitalcommunityslack.com/messages/C4VTJSYJD).
